@@ -1,5 +1,7 @@
+<html>
 <?php
 echo "This site is under development";
 #StaySafe
 #WearMasks
 ?>
+</html>
